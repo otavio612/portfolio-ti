@@ -16,7 +16,7 @@ Conhecimentos técnicos:
 
 Projetos acadêmicos:
 
-Este portfólio está em desenvolvimento e reunirá exercícios práticos e projetos realizados durante minha formação acadêmica. Durante minha formação em Gestão da Tecnologia da Informação na FATEC, desenvolvi atividades práticas voltadas à modelagem e implementação de bancos de dados.
+Durante minha formação em Gestão da Tecnologia da Informação na FATEC, desenvolvi atividades práticas voltadas à modelagem e implementação de bancos de dados.
 
 Sistema de Biblioteca — SQL e Modelagem de Dados:
 
